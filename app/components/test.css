@@ -1,0 +1,6 @@
+.foo {
+  border: 1px solid blue;
+  &__bar{
+    background: red;
+  }
+}
